@@ -1,5 +1,7 @@
 # AI Travel Miles Engine
 
+> Real-world AI workflow used in a production travel operation.
+
 AI-powered workflow for travel quotation, miles intelligence, and automated client communication.
 
 ## Overview
