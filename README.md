@@ -206,3 +206,14 @@ The production system is private, but this repository documents the architecture
 Thiago Queiroz  
 Founder, Grupo MDN  
 Travel, miles, automation, and pricing intelligence.
+
+## Real-World Usage
+
+This system is actively used in a real travel operation to:
+
+- Process flight and miles opportunities from real-time alerts
+- Support pricing decisions based on miles vs. cash comparison
+- Generate structured client offers via WhatsApp
+- Standardize quotation workflows across the operation
+
+This is not a prototype — it's part of a live business workflow.
