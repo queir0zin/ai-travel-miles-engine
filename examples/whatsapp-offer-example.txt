@@ -1,0 +1,16 @@
+Olá, {{client_name}}! Tudo bem?
+
+Encontrei uma excelente oportunidade para sua viagem:
+
+✈️ Trecho: {{origin}} → {{destination}}
+📅 Datas disponíveis: {{available_dates}}
+💺 Classe: {{cabin_class}}
+
+Condição especial:
+💰 PIX: {{pix_price}}
+💳 Cartão: {{card_installments}}x de {{card_installment_value}}
+
+{{savings_label}}
+{{urgency_label}}
+
+Posso seguir com a reserva?

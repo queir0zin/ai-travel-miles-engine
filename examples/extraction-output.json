@@ -1,0 +1,29 @@
+{
+  "program": "Smiles",
+  "cabin_class": "economy",
+  "origin": {
+    "city": "São Paulo",
+    "airport_code": "CGH"
+  },
+  "destination": {
+    "city": "Vitória",
+    "airport_code": "VIX"
+  },
+  "miles_price": {
+    "amount": 15600,
+    "type": "one_way",
+    "currency": "miles"
+  },
+  "available_dates": [
+    "2026-08-05",
+    "2026-08-08",
+    "2026-08-12",
+    "2026-08-19"
+  ],
+  "airline": null,
+  "route_type": "domestic",
+  "confidence": 0.92,
+  "missing_fields": [
+    "airline"
+  ]
+}
